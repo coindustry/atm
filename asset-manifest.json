@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/atm/static/css/main.31d6cfe0.css",
+    "main.js": "/atm/static/js/main.489a8b6a.js",
+    "index.html": "/atm/index.html",
+    "static/media/wallet.svg": "/atm/static/media/wallet.0e814f75e2ddfe484a7c8b12a3afbbf6.svg",
+    "main.489a8b6a.js.map": "/atm/static/js/main.489a8b6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.489a8b6a.js"
+  ]
+}
